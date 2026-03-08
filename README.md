@@ -2,6 +2,9 @@
 
 A browser-based JSON utility site built with Vite + TypeScript.
 
+## UI Preview
+![JSON Tool UI](docs/ui-screenshot.png)
+
 ## Features
 - JSON format/minify/validate/repair/sort
 - Escape / unescape string
